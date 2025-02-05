@@ -1,0 +1,20 @@
+{
+  "name": "com.willneedit.opus",
+  "displayName": "Opus codec",
+  "version": "0.0.1",
+  "unity": "2021.3",
+  "description": "Opus audio codec for Unity",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willneedit/Unity_Opus.git"
+  },
+  "keywords": [
+    "Sample"
+  ],
+  "author": "willneedit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/willneedit/Unity_Opus.git"
+  },
+  "homepage": "https://github.com/willneedit/Unity_Opus.git#readme"
+}
