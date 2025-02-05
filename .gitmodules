@@ -1,0 +1,3 @@
+[submodule "PluginsGen~/opus"]
+	path = PluginsGen~/opus
+	url = https://github.com/xiph/opus.git
